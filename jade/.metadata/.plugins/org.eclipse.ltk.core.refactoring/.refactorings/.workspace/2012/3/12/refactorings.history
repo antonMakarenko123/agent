@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;multiAgentSystem&apos; to &apos;Bombers&apos;" description="Rename resource &apos;multiAgentSystem&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/multiAgentSystem" name="Bombers" stamp="1331608697993" updateReferences="true"/>
+</session>

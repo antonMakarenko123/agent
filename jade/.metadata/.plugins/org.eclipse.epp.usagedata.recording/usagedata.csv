@@ -1,0 +1,15 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331610688109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331610715898
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331610731219
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331610762472
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1331610810237
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331610840694
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331611005351
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1331611008474
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1331611012508
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1331611014431
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1331611014545
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331611063727
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331611065546
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1331611067412
